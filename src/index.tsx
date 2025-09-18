@@ -138,7 +138,7 @@ async function main() {
     }
   );
   logseq.App.registerCommandPalette({
-    key: 'Toggle Smartblock Inserter',
+    key: 'Toggle-Smartblock-Inserter',
     label: 'Select and insert Smartblock',
     keybinding: {
       binding: logseq.settings["Keyboard-Shortcut"],
